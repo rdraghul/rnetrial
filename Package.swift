@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "RaghulsNeuralEngine",
             dependencies: []
-            path: "./"
+            path: "."
         ),
         .testTarget(
             name: "RaghulsNeuralEngineTests",
